@@ -1,4 +1,2 @@
 
-
-https://oidc.eks.us-east-1.amazonaws.com/id/C945AD8AB281C6E0E72ABBCB8B919D3C
-
+"""d5d2063ff036fe6751a0a49de33a5be6ecf3cc73"""
