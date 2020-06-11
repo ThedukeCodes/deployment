@@ -1,0 +1,8 @@
+pyjwt
+flask
+gunicorn
+pytest
+- rolearn: arn:aws:iam::<126666451246>:role/UdacityFlaskDeployCBKubectlRole
+    username: build
+    groups:
+      - system:masters
