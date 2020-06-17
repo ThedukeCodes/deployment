@@ -1,8 +1,3 @@
-eksctl create cluster --name simple-jwt-api --region= eu-central-1
-aws iam put-role-policy --role-name UdacityFlaskDeployCBKubectlRole --policy-name eks-describe --policy-document file:///tmp/iam-role-policy --output text
-
-
-- rolearn: arn:aws:iam::126666451246:role/UdacityFlaskDeployCBKubectlRole username: build groups: - system:masters
 
 """
 A simple app to create a JWT token.
